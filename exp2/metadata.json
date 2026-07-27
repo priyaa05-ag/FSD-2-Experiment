@@ -1,0 +1,6 @@
+{
+  "name": "Redux Content State Manager - Lab Experiment 2",
+  "description": "Redux Toolkit global state system for social media posts, platform metrics, state normalization with createEntityAdapter, createAsyncThunk, memoized selectors, performance profiling, and interactive lab assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
